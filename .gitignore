@@ -7,3 +7,6 @@ desktop.ini
 
 # Node (caso venha a usar ferramentas no futuro)
 node_modules/
+
+# Rascunhos, scripts de geração de imagem e capturas (não vão para produção)
+_previews/
